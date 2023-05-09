@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/project-test",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Lydia Sophie",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "firebase/php-jwt": "^6.4"
+  }
+}
