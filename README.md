@@ -4,6 +4,7 @@ This backend is part of a toy for blind dogs. POST requests are sent to the php 
 I developed this php backend, the app and the microcontroller-toy during my programming-training at Codersbay Linz.
 
 # Features:
+* database-access via PDO
 * register new users
 * login or validate a user via the jwt-token
 * add pets to a user
