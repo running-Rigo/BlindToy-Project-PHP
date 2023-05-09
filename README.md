@@ -15,3 +15,4 @@ I developed this php backend, the app and the microcontroller-toy during my prog
 * JWT-token should be sent in header
 * secret should be stored in a secret-store
 * tokens should expire after a while
+* use standardized error codes
